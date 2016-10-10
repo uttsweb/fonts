@@ -1,5 +1,5 @@
-@import 'https://fonts.googleapis.com/css?family=Cabin+Condensed';
-@import 'https://fonts.googleapis.com/css?family=Bitter';
+@import 'https://fonts.googleapis.com/css?family=Cabin+Condensed|Cambay|Cantarell';
+@import 'https://fonts.googleapis.com/css?family=Bitter|Cambo|Copse';
 
 *{
     padding: 0;
@@ -9,18 +9,18 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: 'Cabin Condensed', sans-serif;
+    font-family: 'Cabin Condensed','Cambay','Cantarell', sans-serif;
 }
 html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: 'Bitter', serif;
+    font-family: 'Bitter','Cambo','Copse', serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: 'Bitter', serif;
+    font-family: 'Bitter','Cambo','Copse', serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
